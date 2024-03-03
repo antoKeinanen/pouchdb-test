@@ -1,6 +1,6 @@
 # Pouchdb type error showcase
 
-This repository contains a minimal reproduction to showcase pouchdb type error when creating a new database instance.
+This repository contains a minimal reproduction to showcase pouchdb type error when creating a new database instance. This repository is linked with this issue: https://github.com/pouchdb/pouchdb/issues/8869
 
 ## Using this example
 1. Install the dependencies `pnpm install`
