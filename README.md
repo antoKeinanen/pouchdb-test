@@ -26,7 +26,7 @@ These steps explain how I created this repository
     2. Install pouchdb types with the command: `pnpm i @types/pouchdb -D`
 3. Declare `global` variable by adding the following lines to `vite.config.ts`:
 
-```json
+```
 define: {
   global: {}
 }
